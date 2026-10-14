@@ -14,6 +14,8 @@ CoopeTica R.L. es una cooperativa de ahorro y crédito que necesita organizar me
 
 ## Diagrama de clases de CoopeTica
 
+## Diagrama de clases del dominio
+
 ![Diagrama de clases](diagramas/diagrama-coopetica.png)
 
 El diagrama se presenta sin relaciones entre las clases porque las relaciones no se evalúan en esta tarea.
