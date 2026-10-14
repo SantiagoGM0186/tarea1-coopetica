@@ -12,6 +12,8 @@
 
 CoopeTica R.L. es una cooperativa de ahorro y crédito que necesita organizar mejor la información que administra. Actualmente, los datos se llevan en hojas de cálculo dispersas, lo que dificulta mantener la información ordenada y consultar los registros de forma consistente. El sistema propuesto permitirá organizar a los asociados, las cuentas que poseen —de ahorro, corriente y certificados a plazo— y los movimientos que se realizan en esas cuentas. De esta manera, cada elemento tendrá sus propios datos y operaciones principales.
 
+## Diagrama de clases de CoopeTica
+
 ## Diagrama de clases del dominio
 
 ![Diagrama de clases](diagramas/diagrama-coopetica.png)
