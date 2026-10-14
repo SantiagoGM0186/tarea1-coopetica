@@ -1,4 +1,4 @@
-# Modelo de dominio — CoopeTica R.L.
+# Modelo de dominio del sistema CoopeTica R.L.
 
 **Curso:** BIS04 Programación II  
 **Actividad:** Tarea 1
