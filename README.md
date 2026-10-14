@@ -8,7 +8,7 @@
 | Integrante | Usuario de GitHub |
 |---|---|
 | Santiago Gutiérrez Monge | [@SantiagoGM0186](https://github.com/SantiagoGM0186) |
-| Nombre completo del segundo integrante | @usuariodeella |
+| Sofía Cordero | (pendiente) |
 
 ## Descripción del dominio
 
