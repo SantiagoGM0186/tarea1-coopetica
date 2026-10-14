@@ -6,7 +6,7 @@
 ## Integrantes
 
 - Santiago Gutiérrez Monge ([@SantiagoGM0186](https://github.com/SantiagoGM0186))
-- Sofía Cordero
+- Sofía Cordero ([@scordero17](https://github.com/scordero17))
 
 ## Descripción del dominio
 
