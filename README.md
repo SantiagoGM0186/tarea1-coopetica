@@ -5,10 +5,8 @@
 
 ## Integrantes
 
-| Integrante | Usuario de GitHub |
-|---|---|
-| Santiago Gutiérrez Monge | [@SantiagoGM0186](https://github.com/SantiagoGM0186) |
-| Sofía Cordero | (pendiente) |
+- Santiago Gutiérrez Monge ([@SantiagoGM0186](https://github.com/SantiagoGM0186))
+- Sofía Cordero
 
 ## Descripción del dominio
 
